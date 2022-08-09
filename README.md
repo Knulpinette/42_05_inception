@@ -10,16 +10,10 @@ machine.
 
 It's basically a wrap around your software so it will work on any hardware. Docker will use three major concepts :
 
-- Dockerfile
+- `Dockerfile` : blueprint for your Docker image
 
-Blueprint for your Docker image
+- `Image` : Template for running your Docker Containers
 
-- Image
-
-Template for running your Docker Containers
-
-- Container
-
-Running process
+- `Container` : Running process
 
 * [Beginner's Tutorial](https://www.youtube.com/watch?v=gAkwW2tuIqE)
